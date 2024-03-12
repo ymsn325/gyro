@@ -1,4 +1,5 @@
-./objects/main.o: src\main.c \
+./objects/main.o: src\main.c inc\l3gd20.h \
+  C:\Keil_v5\ARM\ARMCLANG\include\stdio.h \
   C:\Users\yamas\AppData\Local\arm\packs\Keil\STM32L4xx_DFP\2.6.2\Drivers\CMSIS\Device\ST\STM32L4xx\Include\stm32l476xx.h \
   C:\Users\yamas\AppData\Local\arm\packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\core_cm4.h \
   C:\Keil_v5\ARM\ARMCLANG\include\stdint.h \
